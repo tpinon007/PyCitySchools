@@ -1,0 +1,12 @@
+Homework 4
+Tessa Pinon
+
+The following are three observable trends from the data:
+1) The data shown in table, "Scores by School Size," suggests that school size may
+have a negative impact on reading scores. That is, reading scores appear to be
+significantly higher for smaller schools, although the way in which schools are 
+binned according to size may impact the magnitude of these apparent differences.
+2) There does not appear to be a correlation between spending ranges per student
+and average math scores.
+3) The top five performing schools were Charter schools, while the bottom performing
+schools were Distritct schools.
